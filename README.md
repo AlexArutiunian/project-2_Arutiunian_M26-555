@@ -123,4 +123,6 @@ make build
 
 ## Демонстрация
 
-Запись Asciinema будет добавлена после контрольного прогона в этом репозитории.
+[![Asciinema](https://img.shields.io/badge/Asciinema-Открыть_запись-1f2020?logo=asciinema&logoColor=white)](https://asciinema.org/a/Oc82viJk8Gzj0d9D)
+
+[Открыть запись в Asciinema](https://asciinema.org/a/Oc82viJk8Gzj0d9D)
